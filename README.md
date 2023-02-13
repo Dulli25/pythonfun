@@ -9,3 +9,4 @@ Little Tic-Tac-Toe game made with pygame.
 
 ## cellularAutomaton
 Cellular automaton made with pygame
+current status: not working anymore :(

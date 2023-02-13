@@ -137,7 +137,8 @@ while run:
                 start = False
                 print("Game Stop!")
         if event.type == pygame.MOUSEBUTTONDOWN:
-            pygame.display.update()
+            pass
+    pygame.display.update()
     print("--- %s seconds ---" % (time.time() - start_time))
 
 
