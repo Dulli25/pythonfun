@@ -8,5 +8,5 @@ Just some small python projects I had fun with.
 Little Tic-Tac-Toe game made with pygame.
 
 ## cellularAutomaton
-Cellular automaton made with pygame
+Cellular automaton made with pygame.
 current status: not working anymore :(
